@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Genetic Programming - Introduction, Uses and Limits -
+  Knapsack GA
+message: The Knapsack problem solution using Genetic Algorithms
+type: software
+authors:
+  - given-names: Cezary
+    family-names: Kujath
+    email: cezary.kujath@hu-berlin.de
+    affiliation: Humboldt-Universität Berlin
+repository-code: 'https://github.com/cezary17/genetic_programming_proseminar'
+abstract: >-
+  Genetic Programming is a subdomain of Search-Based
+  Software Engineering, primarily inspired by the Darwin's
+  Theory of Evolution. A genetic program differs from an
+  ordinary, explicit program in that the programmer is not
+  trying to directly calculate the solution but instead
+  "evolve" an algorithm using a loss function. In this paper
+  I will give an overview of the topic, consisting of the
+  history of the domain of Genetic Programming and the
+  deviances of genetic Programs from standard, explicitly
+  written Programs. Further I will showcase some possible
+  applications of the genetic approach to building software
+  and also go into the limitations of that approach.
+keywords:
+  - Genetic Programming
+  - Search-Based Software Engineering
+  - Genetic Algorithms
+license: MIT
